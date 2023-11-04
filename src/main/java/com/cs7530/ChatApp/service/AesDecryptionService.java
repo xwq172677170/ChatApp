@@ -1,5 +1,13 @@
 package com.cs7530.ChatApp.service;
 
+import static com.cs7530.ChatApp.crypto.CryptoUtil.ALGORITHM_NAME;
+import static com.cs7530.ChatApp.crypto.CryptoUtil.ALGORITHM_TYPE;
+import static com.cs7530.ChatApp.crypto.CryptoUtil.ITERATION_COUNT;
+import static com.cs7530.ChatApp.crypto.CryptoUtil.IV;
+import static com.cs7530.ChatApp.crypto.CryptoUtil.KEY_LENGTH;
+import static com.cs7530.ChatApp.crypto.CryptoUtil.SALT;
+import static com.cs7530.ChatApp.crypto.CryptoUtil.SECRET_KEY;
+
 import java.security.spec.KeySpec;
 import java.util.Base64;
 
@@ -10,6 +18,7 @@ import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.PBEKeySpec;
 import javax.crypto.spec.SecretKeySpec;
 
+import org.bouncycastle.jce.provider.BouncyCastleProvider;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
@@ -17,31 +26,38 @@ import org.springframework.stereotype.Service;
 @Service
 public class AesDecryptionService implements DecryptionService {
 
-	private static final String SECRET_KEY = "my_super_secret_key_ho_ho_ho";
-
-	private static final String SALT = "ssshhhhhhhhhhh!!!!";
-
-	Logger logger = LoggerFactory.getLogger(AesDecryptionService.class);
+	private Logger logger = LoggerFactory.getLogger(AesDecryptionService.class);
 
 	@Override
 	public String decrypt(String strToDecrypt) {
-		long start = System.currentTimeMillis();
-		logger.info("start decrption");
 
+		long start = System.currentTimeMillis();
+
+		logger.info("start decrption");
 		logger.info("strToDecrypt {}", strToDecrypt);
+
 		try {
-			byte[] iv = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
-			IvParameterSpec ivspec = new IvParameterSpec(iv);
-			SecretKeyFactory factory = SecretKeyFactory.getInstance("PBKDF2WithHmacSHA256");
-			KeySpec spec = new PBEKeySpec(SECRET_KEY.toCharArray(), SALT.getBytes(), 65536, 256);
-			SecretKey tmp = factory.generateSecret(spec);
-			SecretKeySpec secretKey = new SecretKeySpec(tmp.getEncoded(), "AES");
-			Cipher cipher = Cipher.getInstance("AES/CBC/PKCS5PADDING");
-			cipher.init(Cipher.DECRYPT_MODE, secretKey, ivspec);
+			IvParameterSpec ivspec = new IvParameterSpec(IV);
+
+			SecretKeyFactory factory = SecretKeyFactory.getInstance(ALGORITHM_NAME);
+
+			KeySpec spec = new PBEKeySpec(SECRET_KEY, SALT, ITERATION_COUNT, KEY_LENGTH);
+
+			SecretKey secretKey = factory.generateSecret(spec);
+
+			SecretKeySpec secretKeySpec = new SecretKeySpec(secretKey.getEncoded(), ALGORITHM_TYPE);
+
+			Cipher cipher = Cipher.getInstance("AES", new BouncyCastleProvider());
+
+			cipher.init(Cipher.DECRYPT_MODE, secretKeySpec, ivspec);
+
 			long finish = System.currentTimeMillis();
 			long timeElapsed = finish - start;
+
 			logger.info("complete encrption, took : {} milliseconds ", timeElapsed);
+
 			String out = new String(cipher.doFinal(Base64.getDecoder().decode(strToDecrypt)));
+
 			logger.info("Decrypted string {}", out);
 			return out;
 		} catch (Exception e) {

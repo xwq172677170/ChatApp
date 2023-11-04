@@ -17,6 +17,7 @@ repositories {
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation group: 'org.bouncycastle', name: 'bcprov-jdk18on', version: '1.76'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 

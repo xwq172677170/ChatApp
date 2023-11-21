@@ -2,6 +2,75 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Messenger</title>
+<script>
+  window.onload = function() {
+	  const form = document.getElementById("form");
+		form.addEventListener("submit", function (e) {
+		  e.preventDefault();
+		
+		  var formData = new FormData(form);
+		  
+		  var message = formData.get("message");
+		  
+		  console.log("Encrypting Message : " + message);
+		  
+		  var cipherText = encrypt(message);
+		  
+		  console.log("Encrypted Message : " + cipherText);
+		  
+		  console.log("Decrypting Message : " + cipherText);
+		  
+		  var plainText = decrypt(cipherText);
+		  
+		  console.log("Decrypted Message : " + plainText);
+		  // output as an object
+		  console.log(Object.fromEntries(formData));
+		  
+		  	var newMessage = document.createElement("div");
+			newMessage.setAttribute("class", "container darker");
+				
+			var newAvantar = document.createElement("img");
+			newAvantar.setAttribute("src", "/chat-app/img/p2.jpg");
+			newAvantar.setAttribute("alt", "Avatar");
+			newAvantar.setAttribute("class", "right");
+			newAvantar.setAttribute("style", "width:100%;");
+			newMessage.appendChild(newAvantar);
+			
+			var newText = document.createElement("p");
+			newText.innerHTML = plainText;
+			newMessage.appendChild(newText);
+			
+			var newTime = document.createElement("span");
+			newTime.innerHTML = "11:05";
+			newTime.setAttribute("class", "time-left");
+			newMessage.appendChild(newTime);
+			document.getElementById("main").appendChild(newMessage);
+	  
+	});
+  }
+  
+  function encrypt(message) {
+	    var encryptUrl = "http://localhost:8080/chat-app/send-message";
+	    var params = "message=" + message;
+	    var xmlHttp = new XMLHttpRequest();
+	    xmlHttp.open( "POST", encryptUrl, false ); // false for synchronous request
+	    xmlHttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	    xmlHttp.send(params);
+	    return xmlHttp.responseText;
+  }
+	
+   function decrypt(message) {
+	    var decryptUrl = "http://localhost:8080/chat-app/receive-message";
+	    var params = "message=" + message;
+	    var xmlHttp = new XMLHttpRequest();
+	    xmlHttp.open( "POST", decryptUrl, false ); // false for synchronous request
+	    xmlHttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	    xmlHttp.send(params);
+	    return xmlHttp.responseText;
+  } 
+
+</script>
 <style>
 body {
   margin: 0 auto;
@@ -81,10 +150,13 @@ body {
   <span class="time-left">11:05</span>
 </div>
 
+<div id="main"></div>
+
 <div class="container darker">
-  <textarea alt="Avatar" class="right" style="width:100%;">Sounds great! Let's begin.</textarea>
-	    <br>
-  <input style="background-color:#596e79; color:floralwhite; float: right;" type="submit" value="Send">
+	<form id = "form">
+	  <textarea alt="Avatar" name="message" class="right" style="width:100%;">Sounds great! Let's begin.</textarea><br>
+	  <input style="background-color:#596e79; color:floralwhite; float: right;" type="submit" value="Send">
+  	</form>
 </div>
 
 </body>

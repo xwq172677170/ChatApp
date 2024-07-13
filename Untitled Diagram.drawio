@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T05:32:15.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uBsH_J7wHsBscnMLjjWB" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T05:33:46.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="eSslLPwfpFkqcMPpmtkz" version="24.6.5" type="github">
   <diagram name="Page-1" id="0mairbrYIYrI2T9TzbTR">
     <mxGraphModel dx="1838" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -187,7 +187,7 @@
         <mxCell id="LQpmyjHp3lGpbSpimQd2-63" value="Unfinished&amp;nbsp;&lt;div&gt;Mechanical Room&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="540.5" y="498" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LQpmyjHp3lGpbSpimQd2-64" value="Gym&lt;div&gt;6 = 75&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="LQpmyjHp3lGpbSpimQd2-64" value="Gym&lt;div&gt;7 = 110&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="343.5" y="498" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LQpmyjHp3lGpbSpimQd2-65" value="Game Room&lt;div&gt;4 = 25&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">

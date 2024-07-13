@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T05:33:46.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="eSslLPwfpFkqcMPpmtkz" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T05:47:51.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Dtl4EKp_BqsBQNcCWRzE" version="24.6.5" type="github">
   <diagram name="Page-1" id="0mairbrYIYrI2T9TzbTR">
     <mxGraphModel dx="1838" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -187,10 +187,10 @@
         <mxCell id="LQpmyjHp3lGpbSpimQd2-63" value="Unfinished&amp;nbsp;&lt;div&gt;Mechanical Room&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="540.5" y="498" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LQpmyjHp3lGpbSpimQd2-64" value="Gym&lt;div&gt;7 = 110&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="343.5" y="498" width="60" height="30" as="geometry" />
+        <mxCell id="LQpmyjHp3lGpbSpimQd2-64" value="Gym&lt;div&gt;6 = 75&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="292" y="482" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LQpmyjHp3lGpbSpimQd2-65" value="Game Room&lt;div&gt;4 = 25&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="LQpmyjHp3lGpbSpimQd2-65" value="Game Room" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="559.5" y="364" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LQpmyjHp3lGpbSpimQd2-66" value="Game Room&lt;div&gt;7 = 110&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
@@ -199,7 +199,7 @@
         <mxCell id="LQpmyjHp3lGpbSpimQd2-67" value="Half B&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Game%20Room%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D8%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22386%22%20y%3D%22273%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;ath&lt;div&gt;4 = 25&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;25%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Game%20Room%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D8%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22386%22%20y%3D%22273%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="655.5" y="475" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LQpmyjHp3lGpbSpimQd2-68" value="Kitchenette&lt;div&gt;7 = 110&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="LQpmyjHp3lGpbSpimQd2-68" value="Kitchenette&lt;div&gt;8 = 160&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="572.75" y="220" width="76.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LQpmyjHp3lGpbSpimQd2-70" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -291,6 +291,15 @@
         </mxCell>
         <mxCell id="0pLNkB7-unwd7DuSWteV-2" value="Bedroom&lt;div&gt;6 + 4 = 100&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="178.5" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0pLNkB7-unwd7DuSWteV-3" value="Return&lt;div&gt;7 = 110&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="34" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="0pLNkB7-unwd7DuSWteV-4" value="Return&lt;div&gt;12 = 480&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="503" y="420" width="48" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0pLNkB7-unwd7DuSWteV-5" value="Return&lt;div&gt;7 = 110&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="446" y="543" width="48" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

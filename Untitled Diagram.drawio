@@ -328,6 +328,24 @@
         <mxCell id="cqji-3O6UMI-wQr2WQBb-4" value="50 A&lt;div&gt;1. Car charger&lt;/div&gt;&lt;div&gt;2. Range&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-520" y="220" width="120" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="lOU4DIs4ATS03P_mxSE--1" value="4 (base)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="650" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lOU4DIs4ATS03P_mxSE--2" value="1.5 (pipe)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="630" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lOU4DIs4ATS03P_mxSE--3" value="&amp;lt; 1.5 Tee 5 5/8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="580" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lOU4DIs4ATS03P_mxSE--4" value="3 3/8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lOU4DIs4ATS03P_mxSE--5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;1.5 Tee 5 5/8 &amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lOU4DIs4ATS03P_mxSE--6" value="3 3/8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-455" y="542" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

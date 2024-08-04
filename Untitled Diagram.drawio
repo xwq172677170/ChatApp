@@ -442,8 +442,14 @@
         <mxCell id="9oern0ieAbZfS83g1np6-13" value="Drain 2&lt;div&gt;X:&amp;nbsp; 47.5&lt;/div&gt;&lt;div&gt;Y:&lt;span style=&quot;background-color: initial;&quot;&gt;8.875&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-139.5" y="-410" width="113" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9oern0ieAbZfS83g1np6-14" value="Drain 2&lt;div&gt;&amp;nbsp;1.5/16&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9oern0ieAbZfS83g1np6-14" value="&lt;div&gt;Distance 4.5&lt;/div&gt;&lt;div&gt;slope 1.5/16&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8.5" y="-410" width="113" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9oern0ieAbZfS83g1np6-15" value="&lt;div&gt;Distance 20&lt;/div&gt;&lt;div&gt;slope 7/16&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="-410" width="113" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9oern0ieAbZfS83g1np6-16" value="&lt;div&gt;Distance 29.75&lt;/div&gt;&lt;div&gt;slope 5/8&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="369" y="-410" width="113" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

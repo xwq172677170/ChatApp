@@ -439,6 +439,9 @@
         <mxCell id="9oern0ieAbZfS83g1np6-12" value="Drain 1&lt;div&gt;- 3/4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-651.5" y="-320" width="113" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="9oern0ieAbZfS83g1np6-13" value="Drain 2&lt;div&gt;X:&amp;nbsp; 40.875&lt;/div&gt;&lt;div&gt;Y:&lt;span style=&quot;background-color: initial;&quot;&gt;5 3/4&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-139.5" y="-410" width="113" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

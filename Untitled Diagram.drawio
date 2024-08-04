@@ -430,17 +430,20 @@
         <mxCell id="9oern0ieAbZfS83g1np6-9" value="Drain 1&lt;div&gt;X:&amp;nbsp; 40.875&lt;/div&gt;&lt;div&gt;Y:&lt;span style=&quot;background-color: initial;&quot;&gt;5 3/4&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-139.5" y="-320" width="113" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9oern0ieAbZfS83g1np6-10" value="Drain 1&lt;div&gt;- 1/8&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9oern0ieAbZfS83g1np6-10" value="distance 5&lt;div&gt;&amp;nbsp;slope 1/8&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-309" y="-320" width="113" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9oern0ieAbZfS83g1np6-11" value="Drain 1&lt;div&gt;- 7/16&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9oern0ieAbZfS83g1np6-11" value="&lt;div&gt;distance 20&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;slope 7/16&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-489" y="-320" width="113" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9oern0ieAbZfS83g1np6-12" value="Drain 1&lt;div&gt;- 3/4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9oern0ieAbZfS83g1np6-12" value="distance 36&lt;div&gt;slope 3/4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-651.5" y="-320" width="113" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9oern0ieAbZfS83g1np6-13" value="Drain 2&lt;div&gt;X:&amp;nbsp; 40.875&lt;/div&gt;&lt;div&gt;Y:&lt;span style=&quot;background-color: initial;&quot;&gt;5 3/4&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9oern0ieAbZfS83g1np6-13" value="Drain 2&lt;div&gt;X:&amp;nbsp; 47.5&lt;/div&gt;&lt;div&gt;Y:&lt;span style=&quot;background-color: initial;&quot;&gt;8.875&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-139.5" y="-410" width="113" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9oern0ieAbZfS83g1np6-14" value="Drain 2&lt;div&gt;&amp;nbsp;1.5/16&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8.5" y="-410" width="113" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

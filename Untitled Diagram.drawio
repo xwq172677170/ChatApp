@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="0mairbrYIYrI2T9TzbTR">
-    <mxGraphModel dx="3290" dy="2401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -472,7 +472,7 @@
         <mxCell id="9oern0ieAbZfS83g1np6-20" value="&lt;div&gt;1 * 12 inch R6 65&lt;/div&gt;&lt;div&gt;1 * 8 inch R6 40&lt;/div&gt;6 * 6 inch R6 210&lt;div style=&quot;font-size: 8px;&quot;&gt;1 * 5 inch R6&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;1 * 4 inch R6&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;1 * 7 inch&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;2 * 10 inch&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="292" y="90" width="198" height="90.5" as="geometry" />
         </mxCell>
-        <mxCell id="T62QjvgZ2xGFMTv7PeE2-1" value="ac line 700&lt;div&gt;havc 3000&lt;/div&gt;&lt;div&gt;drywall paint mud 3000&lt;/div&gt;&lt;div&gt;appliance 4000&lt;/div&gt;&lt;div&gt;floor 4000&lt;/div&gt;&lt;div&gt;cabient 6000&lt;/div&gt;&lt;div&gt;Coutertop 10000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="T62QjvgZ2xGFMTv7PeE2-1" value="ac line 700&lt;div&gt;havc 3000&lt;/div&gt;&lt;div&gt;drywall paint mud 3000&lt;/div&gt;&lt;div&gt;appliance 4000&lt;/div&gt;&lt;div&gt;floor 4000&lt;/div&gt;&lt;div&gt;cabient 6000&lt;/div&gt;&lt;div&gt;Coutertop 10000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-790" y="-70" width="280" height="140" as="geometry" />
         </mxCell>
       </root>

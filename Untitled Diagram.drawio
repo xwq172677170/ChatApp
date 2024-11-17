@@ -790,6 +790,12 @@
             <mxPoint x="680" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fHWMP3PIU8pHACe9He6C-35" value="36" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="651.5" y="149" width="22" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="fHWMP3PIU8pHACe9He6C-36" value="6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="673.5" y="149" width="22" height="11" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

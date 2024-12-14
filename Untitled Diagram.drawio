@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="0mairbrYIYrI2T9TzbTR">
-    <mxGraphModel dx="1327" dy="1354" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2280" dy="1863" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,7 +289,7 @@
         <mxCell id="Q7Qhc7Fp29ryRhH7lDCQ-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="652" y="240" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="cqji-3O6UMI-wQr2WQBb-4" value="&lt;div&gt;&lt;strike&gt;1. Range 50A wiring&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;2. Air Handler 20 A wiiring&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;3. Bath Lighting/Fan&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;4. Existing switch mod&lt;/div&gt;&lt;div&gt;5. Game/Office 3 way&lt;/div&gt;&lt;div&gt;6. Game room 10 inch header&lt;/div&gt;&lt;div&gt;7. &lt;strike&gt;themostate wire rerun&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;8. Concrete&lt;/div&gt;&lt;div&gt;9. Car charger&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="cqji-3O6UMI-wQr2WQBb-4" value="&lt;div&gt;1. Gym Header&lt;/div&gt;&lt;div&gt;2. Move stuffs to garage&lt;/div&gt;&lt;div&gt;3. Ceiling Drywall Remove&lt;/div&gt;&lt;div&gt;4. Existing switch mod&lt;/div&gt;&lt;div&gt;5. Insulation&lt;/div&gt;&lt;div&gt;6. Game room 10 inch header&lt;/div&gt;&lt;div&gt;7. &lt;strike&gt;themostate wire rerun&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;8. Concrete&lt;/div&gt;&lt;div&gt;9. Car charger&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="48.5" y="630" width="320" height="300" as="geometry" />
         </mxCell>
         <mxCell id="lOU4DIs4ATS03P_mxSE--9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1370,16 +1370,16 @@
         <mxCell id="g5fy-N-APHrW0drstYDu-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="300.5" y="-625" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OLMES3VKCgjtNfcSCA6d-1" value="26" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+        <mxCell id="OLMES3VKCgjtNfcSCA6d-1" value="26" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" parent="1" vertex="1">
           <mxGeometry x="685" y="164.5" width="22" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="OLMES3VKCgjtNfcSCA6d-2" value="42" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+        <mxCell id="OLMES3VKCgjtNfcSCA6d-2" value="42" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" parent="1" vertex="1">
           <mxGeometry x="685" y="199" width="22" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="OLMES3VKCgjtNfcSCA6d-3" value="44" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+        <mxCell id="OLMES3VKCgjtNfcSCA6d-3" value="44" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" parent="1" vertex="1">
           <mxGeometry x="684" y="242.68" width="22" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="OLMES3VKCgjtNfcSCA6d-5" value="38.5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+        <mxCell id="OLMES3VKCgjtNfcSCA6d-5" value="38.5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" parent="1" vertex="1">
           <mxGeometry x="684" y="282.24" width="22" height="11" as="geometry" />
         </mxCell>
       </root>

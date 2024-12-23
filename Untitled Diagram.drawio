@@ -289,7 +289,7 @@
         <mxCell id="Q7Qhc7Fp29ryRhH7lDCQ-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="652" y="240" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="cqji-3O6UMI-wQr2WQBb-4" value="&lt;div&gt;1. Gym Header&lt;/div&gt;&lt;div&gt;2. Move stuffs to garage&lt;/div&gt;&lt;div&gt;3. Ceiling Drywall Remove&lt;/div&gt;&lt;div&gt;4. Existing switch mod&lt;/div&gt;&lt;div&gt;5. Insulation&lt;/div&gt;&lt;div&gt;6. Game room 10 inch header&lt;/div&gt;&lt;div&gt;7. &lt;strike&gt;themostate wire rerun&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;8. Concrete&lt;/div&gt;&lt;div&gt;9. Car charger&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="cqji-3O6UMI-wQr2WQBb-4" value="&lt;div&gt;1. Gym Header&lt;/div&gt;&lt;div&gt;2. Game room 10 inch header&lt;/div&gt;&lt;div&gt;3. Car charger&lt;/div&gt;&lt;div&gt;4. Hood wire rerun&lt;/div&gt;&lt;div&gt;5. led strip light setup&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="48.5" y="630" width="320" height="300" as="geometry" />
         </mxCell>
         <mxCell id="lOU4DIs4ATS03P_mxSE--9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -316,7 +316,7 @@
         <mxCell id="9oern0ieAbZfS83g1np6-20" value="&lt;div&gt;1 * 12 inch R6&amp;nbsp;&lt;/div&gt;&lt;div&gt;1 * 8 inch R6&amp;nbsp;&lt;/div&gt;6 * 9 inch R6&amp;nbsp;&lt;div style=&quot;font-size: 8px;&quot;&gt;2 * 4 inch R6&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;1 * 7 inch&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;2 * 10 inch&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="545" y="29.5" width="198" height="90.5" as="geometry" />
         </mxCell>
-        <mxCell id="T62QjvgZ2xGFMTv7PeE2-1" value="&lt;div&gt;havc 3000&lt;/div&gt;&lt;div&gt;drywall paint mud 3000&lt;/div&gt;&lt;div&gt;appliance 4000&lt;/div&gt;&lt;div&gt;floor 4000&lt;/div&gt;&lt;div&gt;cabient 6000&lt;/div&gt;&lt;div&gt;Coutertop 4000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="T62QjvgZ2xGFMTv7PeE2-1" value="&lt;div&gt;havc 3000&lt;/div&gt;&lt;div&gt;drywall paint mud 3000&lt;/div&gt;&lt;div&gt;appliance 4000&lt;/div&gt;&lt;div&gt;floor 7000&lt;/div&gt;&lt;div&gt;cabient 6000&lt;/div&gt;&lt;div&gt;Coutertop 4000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-231.5" y="448" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Khz3Pos5AjkqVkE6-FkF-2" value="Plenum" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1465,6 +1465,12 @@
         </mxCell>
         <mxCell id="X5bZTApz9ExQ7T_Tgf1x-34" value="Floor:&amp;nbsp;222 * 165 + 150 * 166 + 138 * 202 + 78 * 90 + 235 * 132 + 293 * 227 + (70 + 164) * 26 + 148 * 132 + 41 * 185 + 44 * 60 + 132 * 62 - 300 * 24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-107" y="-177" width="413" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X5bZTApz9ExQ7T_Tgf1x-36" value="1. Sprinkler Leak&lt;div&gt;2. Concrete Fill&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-128.5" y="630" width="148" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="X5bZTApz9ExQ7T_Tgf1x-37" value="1. cut drywall for new wall&lt;div&gt;2. closet lighting/switch&lt;/div&gt;&lt;div&gt;3. bedroom lighting wiring&lt;/div&gt;&lt;div&gt;4. Four way switch wiring&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Move stuffs to bedroom&lt;/div&gt;&lt;div&gt;6. wrap window&lt;/div&gt;&lt;div&gt;7. Trim/fan removal&lt;/div&gt;&lt;div&gt;8. drywall removal&lt;/div&gt;&lt;div&gt;9. insulation.&lt;/div&gt;&lt;div&gt;10 electric mod&lt;/div&gt;&lt;div&gt;11 remove case opening&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="635" width="219" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

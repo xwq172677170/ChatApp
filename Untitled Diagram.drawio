@@ -1436,6 +1436,9 @@
         <mxCell id="z2lN0gBTSdmX00P99PFg-82" value="3 * 12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="376.5" y="945.25" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="z2lN0gBTSdmX00P99PFg-83" value="1 * 12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="546.75" y="780.75" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

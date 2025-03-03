@@ -1451,6 +1451,9 @@
         <mxCell id="dUWjYIJJ8pjfNmK6IRUn-1" value="+ 66" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="750.75" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dUWjYIJJ8pjfNmK6IRUn-2" value="1. 1/8 gap for butt joint" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-291" y="893" width="291" height="307" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

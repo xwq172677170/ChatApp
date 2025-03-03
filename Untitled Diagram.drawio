@@ -1436,7 +1436,7 @@
         <mxCell id="0TvCE1rZ8cqhCRTCRYW9-13" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0080;" vertex="1" parent="1">
           <mxGeometry x="428.5" y="909.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0TvCE1rZ8cqhCRTCRYW9-16" value="CEILING 34 * 12&lt;div&gt;5 * 9&lt;/div&gt;&lt;div&gt;9 * 8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;40 * 12&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0TvCE1rZ8cqhCRTCRYW9-16" value="CEILING 34 * 12&lt;div&gt;5 * 9&lt;/div&gt;&lt;div&gt;9 * 8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;WALL 40 * 12&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="923" y="1049" width="277" height="151" as="geometry" />
         </mxCell>
         <mxCell id="0TvCE1rZ8cqhCRTCRYW9-17" value="4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00FF00;" vertex="1" parent="1">

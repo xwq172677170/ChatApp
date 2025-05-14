@@ -1436,6 +1436,9 @@
         <mxCell id="xp7uH_bDFN3DUIPyzFHn-1" value="ceiling&lt;div&gt;((70 + 164) /2 ) * 52 + 227 * ( 137 + 156) + 41 * 108&amp;nbsp; + 222 * 165 + 202 * 138 + 166 * 157 + 78 * 91 + 132 * 235 + 42 * 120&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;wall&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;( 165 + 222 ) * 2&amp;nbsp; * 108 + ( 166 + 157 ) * 2&amp;nbsp; * 108&amp;nbsp; + ( 138+ 205) * 2&amp;nbsp; * 108 + ( 78+ 90.5) * 2&amp;nbsp; * 108 + ( 235+ 132) * 2&amp;nbsp; * 108&lt;/div&gt;&lt;div&gt;- 60 * 80 * 5&amp;nbsp; - 120 * 80 - 70 * 30 * 6 - 5 * 80 * 36&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="204" y="1200" width="377" height="189" as="geometry" />
         </mxCell>
+        <mxCell id="xp7uH_bDFN3DUIPyzFHn-2" value="14 * 6.5 * 8&amp;nbsp; = $350&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(28 + 15 + 12) * 3 * 8 = $800&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;12 * 3 * 8 = 200&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 door 400&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-143" y="1200" width="243" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

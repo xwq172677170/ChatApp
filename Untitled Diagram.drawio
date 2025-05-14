@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="27.0.4">
   <diagram name="Page-1" id="0mairbrYIYrI2T9TzbTR">
-    <mxGraphModel dx="2026" dy="1737" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2908" dy="2214" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1412,26 +1412,29 @@
         <mxCell id="-u1856BeFNnK2FDDh8tc-1" value="1. Hood Cover&lt;div&gt;2. Bookcase shelf&lt;/div&gt;&lt;div&gt;3. wastcoat&lt;/div&gt;&lt;div&gt;4. bathroom&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. window sil plate&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-358" y="634.75" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="fRXilFY0rX9tVJneCEuW-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="fRXilFY0rX9tVJneCEuW-1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="-840" as="sourcePoint" />
             <mxPoint x="260" y="-946" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fRXilFY0rX9tVJneCEuW-2" value="42" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="fRXilFY0rX9tVJneCEuW-2" value="42" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="224.5" y="-836.5" width="16" height="6.5" as="geometry" />
         </mxCell>
-        <mxCell id="fRXilFY0rX9tVJneCEuW-3" value="79" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="fRXilFY0rX9tVJneCEuW-3" value="79" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="283.5" y="-588.25" width="16" height="6.5" as="geometry" />
         </mxCell>
-        <mxCell id="fRXilFY0rX9tVJneCEuW-4" value="79" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="fRXilFY0rX9tVJneCEuW-4" value="79" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="332" y="-625" width="16" height="6.5" as="geometry" />
         </mxCell>
-        <mxCell id="fRXilFY0rX9tVJneCEuW-5" value="79" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="fRXilFY0rX9tVJneCEuW-5" value="79" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="249" y="-545" width="16" height="18.5" as="geometry" />
         </mxCell>
-        <mxCell id="fRXilFY0rX9tVJneCEuW-8" value="178" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="fRXilFY0rX9tVJneCEuW-8" value="178" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="328" y="-736.5" width="16" height="6.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xp7uH_bDFN3DUIPyzFHn-1" value="ceiling&lt;div&gt;((70 + 164) /2 ) * 52 + 227 * ( 137 + 156) + 41 * 108&amp;nbsp; + 222 * 165 + 202 * 138 + 166 * 157 + 78 * 91 + 132 * 235 + 42 * 120&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;wall&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;( 165 + 222 ) * 2&amp;nbsp; * 108 + ( 166 + 157 ) * 2&amp;nbsp; * 108&amp;nbsp; + ( 138+ 205) * 2&amp;nbsp; * 108 + ( 78+ 90.5) * 2&amp;nbsp; * 108 + ( 235+ 132) * 2&amp;nbsp; * 108&lt;/div&gt;&lt;div&gt;- 60 * 80 * 5&amp;nbsp; - 120 * 80 - 70 * 30 * 6 - 5 * 80 * 36&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="204" y="1200" width="377" height="189" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -884,7 +884,7 @@
           <mxGeometry height="262" width="257" x="217.5" y="-807" as="geometry" />
         </mxCell>
         <mxCell id="g5fy-N-APHrW0drstYDu-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="323.5" y="-625" as="geometry" />
+          <mxGeometry height="80" width="80" x="329.5" y="-625" as="geometry" />
         </mxCell>
         <mxCell id="OLMES3VKCgjtNfcSCA6d-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" value="25.5" vertex="1">
           <mxGeometry height="11" width="22" x="685" y="164.5" as="geometry" />
@@ -1312,16 +1312,22 @@
           <mxGeometry height="48" width="20" x="439" y="-711" as="geometry" />
         </mxCell>
         <mxCell id="kZ6FsOAB5F5UXQR55WD7-9" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.9984085036175459;endAngle=0.25;fontSize=8;direction=north;" value="" vertex="1">
-          <mxGeometry height="48" width="48" x="406" y="-649" as="geometry" />
+          <mxGeometry height="48" width="48" x="412" y="-649" as="geometry" />
         </mxCell>
         <mxCell id="kZ6FsOAB5F5UXQR55WD7-10" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" value="64" vertex="1">
-          <mxGeometry height="6.5" width="16" x="432.5" y="-539" as="geometry" />
+          <mxGeometry height="6.5" width="16" x="431" y="-581.75" as="geometry" />
         </mxCell>
         <mxCell id="kZ6FsOAB5F5UXQR55WD7-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" value="70" vertex="1">
-          <mxGeometry height="6.5" width="16" x="477" y="-588.25" as="geometry" />
+          <mxGeometry height="6.5" width="16" x="480" y="-601" as="geometry" />
         </mxCell>
         <mxCell id="kZ6FsOAB5F5UXQR55WD7-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="3/4 plywood * 13&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 inch foamboard * 9&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="203" x="589" y="-751" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ6FsOAB5F5UXQR55WD7-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="-562" as="sourcePoint" />
+            <mxPoint x="474" y="-562" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

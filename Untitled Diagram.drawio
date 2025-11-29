@@ -1458,6 +1458,18 @@
         <mxCell id="6cFLXrsnd5N4eirV4RYG-37" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="15" width="15" x="341" y="-721.22" as="geometry" />
         </mxCell>
+        <mxCell id="6cFLXrsnd5N4eirV4RYG-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" value="32*61.5" vertex="1">
+          <mxGeometry height="61.5" width="32" x="301" y="-917.72" as="geometry" />
+        </mxCell>
+        <mxCell id="6cFLXrsnd5N4eirV4RYG-40" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" value="112.5" vertex="1">
+          <mxGeometry height="6.5" width="16" x="384" y="-829.75" as="geometry" />
+        </mxCell>
+        <mxCell id="6cFLXrsnd5N4eirV4RYG-41" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" value="79" vertex="1">
+          <mxGeometry height="6.5" width="16" x="255" y="-856.22" as="geometry" />
+        </mxCell>
+        <mxCell id="6cFLXrsnd5N4eirV4RYG-42" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" value="98" vertex="1">
+          <mxGeometry height="6.5" width="16" x="356" y="-861.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

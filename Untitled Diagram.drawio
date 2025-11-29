@@ -1320,8 +1320,8 @@
         <mxCell id="kZ6FsOAB5F5UXQR55WD7-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" value="70" vertex="1">
           <mxGeometry height="6.5" width="16" x="477" y="-588.25" as="geometry" />
         </mxCell>
-        <mxCell id="kZ6FsOAB5F5UXQR55WD7-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3/4 plywood * 13&lt;div&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="203" x="597" y="-750" as="geometry" />
+        <mxCell id="kZ6FsOAB5F5UXQR55WD7-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="3/4 plywood * 13&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 inch foamboard * 9&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="203" x="589" y="-751" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

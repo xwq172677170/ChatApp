@@ -1521,6 +1521,12 @@
         <mxCell id="6cFLXrsnd5N4eirV4RYG-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudding Labor&lt;div&gt;($1000)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="-400" y="-702" as="geometry" />
         </mxCell>
+        <mxCell id="6cFLXrsnd5N4eirV4RYG-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Duct 300" vertex="1">
+          <mxGeometry height="60" width="100" x="-400" y="-642" as="geometry" />
+        </mxCell>
+        <mxCell id="6cFLXrsnd5N4eirV4RYG-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wire 100" vertex="1">
+          <mxGeometry height="60" width="100" x="-400" y="-580" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

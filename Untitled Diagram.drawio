@@ -1450,7 +1450,7 @@
           <mxGeometry height="6.5" width="100" x="122" y="-930.22" as="geometry" />
         </mxCell>
         <mxCell id="6cFLXrsnd5N4eirV4RYG-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Insulation (EST $2100)&lt;div&gt;Floor&lt;/div&gt;&lt;div&gt;14 * 5.5 = 77&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;10 bags R38 * 24 ($70)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ceiling&lt;/div&gt;&lt;div&gt;5.5 * 11 +&amp;nbsp; 2 * 2 + 5 * 2 + 2= 77&lt;/div&gt;&lt;div&gt;10 Bags of R23 * 16 ($75)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;KneeWall&amp;nbsp;&lt;/div&gt;&lt;div&gt;257 / 16 = 16 Bats&lt;/div&gt;&lt;div&gt;2 Bags of R15 * 16 ($75)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Window Wall&lt;/div&gt;&lt;div&gt;2 Bags of R15 * 16&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5 * FOAMBOARD ($60)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="330" width="211" x="-411" y="-830" as="geometry" />
+          <mxGeometry height="330" width="179.5" x="-300" y="-823.25" as="geometry" />
         </mxCell>
         <mxCell id="6cFLXrsnd5N4eirV4RYG-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="15" width="15" x="340.5" y="-783" as="geometry" />
@@ -1511,6 +1511,15 @@
             <mxPoint x="341" y="-914.72" as="sourcePoint" />
             <mxPoint x="389" y="-914.72" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6cFLXrsnd5N4eirV4RYG-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Plywood ($ 600)&lt;div&gt;13&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="-400" y="-823.25" as="geometry" />
+        </mxCell>
+        <mxCell id="6cFLXrsnd5N4eirV4RYG-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RafterVent($ 200)&lt;div&gt;&lt;div&gt;56&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="-400" y="-763.25" as="geometry" />
+        </mxCell>
+        <mxCell id="6cFLXrsnd5N4eirV4RYG-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudding Labor&lt;div&gt;($1000)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="-400" y="-702" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="Page-1" id="0mairbrYIYrI2T9TzbTR">
-    <mxGraphModel dx="2864" dy="1861" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2018" dy="1541" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1515,7 +1515,7 @@
         <mxCell id="6cFLXrsnd5N4eirV4RYG-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OSB Sub($ 400)&lt;div&gt;13&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="-400" y="-823.25" as="geometry" />
         </mxCell>
-        <mxCell id="6cFLXrsnd5N4eirV4RYG-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RafterVent($ 200)&lt;div&gt;&lt;div&gt;56&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="6cFLXrsnd5N4eirV4RYG-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RafterVent($ 200)&lt;div&gt;&lt;div&gt;44 + 4 + 10 = 58&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="-400" y="-763.25" as="geometry" />
         </mxCell>
         <mxCell id="6cFLXrsnd5N4eirV4RYG-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudding Labor&lt;div&gt;($1000)&lt;/div&gt;" vertex="1">
@@ -1526,6 +1526,9 @@
         </mxCell>
         <mxCell id="6cFLXrsnd5N4eirV4RYG-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wire 100" vertex="1">
           <mxGeometry height="60" width="100" x="-400" y="-580" as="geometry" />
+        </mxCell>
+        <mxCell id="lZW7yIsleH291aBCMWfK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Stud&lt;div&gt;39 * 12 = 0&lt;/div&gt;&lt;div&gt;17 * 58 = 17&lt;/div&gt;&lt;div&gt;257 / 96 = 6&lt;/div&gt;&lt;div&gt;178/96 = 4&lt;/div&gt;" vertex="1">
+          <mxGeometry height="117" width="100" x="-400" y="-520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

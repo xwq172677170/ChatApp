@@ -1524,6 +1524,9 @@
         <mxCell id="lZW7yIsleH291aBCMWfK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Stud&lt;div&gt;39 * 12 = 0&lt;/div&gt;&lt;div&gt;17 * 58 = 17&lt;/div&gt;&lt;div&gt;257 / 96 = 6&lt;/div&gt;&lt;div&gt;178/96 = 4&lt;/div&gt;" vertex="1">
           <mxGeometry height="117" width="100" x="-400" y="-520" as="geometry" />
         </mxCell>
+        <mxCell id="djaOxGMxVg1an2RmLQam-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Rafter Ti *16 - 1d&lt;div&gt;Kick Remove - 1d&lt;/div&gt;&lt;div&gt;Subfloor - 3d&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="423" width="160" x="-585" y="-823.25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

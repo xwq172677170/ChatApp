@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="29.2.3">
   <diagram name="Page-1" id="0mairbrYIYrI2T9TzbTR">
-    <mxGraphModel dx="2018" dy="1541" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1536" dy="1471" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1324,28 +1324,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kZ6FsOAB5F5UXQR55WD7-14" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" value="" vertex="1">
-          <mxGeometry height="4" width="2" x="291.5" y="-587" as="geometry" />
+          <mxGeometry height="4" width="2" x="282" y="-616" as="geometry" />
         </mxCell>
         <mxCell id="kZ6FsOAB5F5UXQR55WD7-15" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" value="" vertex="1">
-          <mxGeometry height="4" width="2" x="268.5" y="-537.75" as="geometry" />
+          <mxGeometry height="4" width="2" x="274.5" y="-545" as="geometry" />
         </mxCell>
         <mxCell id="kZ6FsOAB5F5UXQR55WD7-16" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" value="" vertex="1">
-          <mxGeometry height="4" width="2" x="211" y="-537" as="geometry" />
+          <mxGeometry height="4" width="2" x="214.5" y="-545" as="geometry" />
         </mxCell>
         <mxCell id="kZ6FsOAB5F5UXQR55WD7-17" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" value="" vertex="1">
-          <mxGeometry height="4" width="2" x="212" y="-714" as="geometry" />
+          <mxGeometry height="4" width="2" x="210" y="-749" as="geometry" />
         </mxCell>
         <mxCell id="kZ6FsOAB5F5UXQR55WD7-19" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" value="" vertex="1">
-          <mxGeometry height="4" width="2" x="213" y="-774" as="geometry" />
-        </mxCell>
-        <mxCell id="kZ6FsOAB5F5UXQR55WD7-20" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" value="" vertex="1">
-          <mxGeometry height="4" width="2" x="266" y="-807" as="geometry" />
+          <mxGeometry height="4" width="2" x="207" y="-795.25" as="geometry" />
         </mxCell>
         <mxCell id="kZ6FsOAB5F5UXQR55WD7-21" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" value="" vertex="1">
-          <mxGeometry height="4" width="2" x="209" y="-586.5" as="geometry" />
+          <mxGeometry height="4" width="2" x="210" y="-607.5" as="geometry" />
         </mxCell>
         <mxCell id="kZ6FsOAB5F5UXQR55WD7-22" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" value="" vertex="1">
-          <mxGeometry height="4" width="2" x="213" y="-653" as="geometry" />
+          <mxGeometry height="4" width="2" x="210" y="-682" as="geometry" />
         </mxCell>
         <mxCell id="kZ6FsOAB5F5UXQR55WD7-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Drywall (EST $700)&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ceiling 4* 8 = 4 + 1 + 1&lt;/div&gt;&lt;div&gt;Sloped right&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;4&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;* 8 = 4 + 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Sloped Left 4 * 8 = 6&lt;/div&gt;&lt;div&gt;KneeWall left +&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Right&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;4 * 8 = 6&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Triangle Wall&amp;nbsp;&lt;/div&gt;&lt;div&gt;4 * 9 = 3&lt;/div&gt;&lt;div&gt;4 * 8 = 3&lt;/div&gt;&lt;div&gt;4 * 9 = 5&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Storage 1 wall 4 * 8 = 3&lt;/div&gt;&lt;div&gt;storage 2 wall 4 * 9 = 3&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;4 * 8 = 1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4*8 = 30&lt;/div&gt;&lt;div&gt;4*9 = 11&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="323.25" width="220.5" x="-120.5" y="-823.25" as="geometry" />

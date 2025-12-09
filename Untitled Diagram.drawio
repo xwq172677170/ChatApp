@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="29.2.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.4">
   <diagram name="Page-1" id="0mairbrYIYrI2T9TzbTR">
-    <mxGraphModel dx="1536" dy="1471" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1676" dy="1560" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1509,10 +1509,10 @@
         <mxCell id="6cFLXrsnd5N4eirV4RYG-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudding Labor&lt;div&gt;($1000)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="-400" y="-702" as="geometry" />
         </mxCell>
-        <mxCell id="6cFLXrsnd5N4eirV4RYG-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Duct 300" vertex="1">
+        <mxCell id="6cFLXrsnd5N4eirV4RYG-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Duct 120" vertex="1">
           <mxGeometry height="60" width="100" x="-400" y="-642" as="geometry" />
         </mxCell>
-        <mxCell id="6cFLXrsnd5N4eirV4RYG-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wire 100" vertex="1">
+        <mxCell id="6cFLXrsnd5N4eirV4RYG-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wire 0" vertex="1">
           <mxGeometry height="60" width="100" x="-400" y="-580" as="geometry" />
         </mxCell>
         <mxCell id="lZW7yIsleH291aBCMWfK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Stud&lt;div&gt;39 * 12 = 0&lt;/div&gt;&lt;div&gt;17 * 58 = 17&lt;/div&gt;&lt;div&gt;257 / 96 = 6&lt;/div&gt;&lt;div&gt;178/96 = 4&lt;/div&gt;" vertex="1">
@@ -1538,6 +1538,9 @@
             <mxPoint x="267" y="-774.65" as="sourcePoint" />
             <mxPoint x="352" y="-774.65" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s2RYPNqm_MwgXRLfmvXZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cabinets 2k&lt;div&gt;Flooring 1.2k&lt;/div&gt;" vertex="1">
+          <mxGeometry height="93" width="200" x="-300" y="-493" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

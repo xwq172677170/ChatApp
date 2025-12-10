@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.6">
   <diagram name="Page-1" id="0mairbrYIYrI2T9TzbTR">
-    <mxGraphModel dx="1676" dy="1560" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2275" dy="1894" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -721,14 +721,11 @@
         <mxCell id="H0AdhSBVbxNnqw1CIghp-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="V" vertex="1">
           <mxGeometry height="8.25" width="19" x="670" y="488" as="geometry" />
         </mxCell>
-        <mxCell id="s9iz7q6eL484p9fjKbK_-10" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="21" vertex="1">
-          <mxGeometry height="30" width="60" x="310.5" y="-369.5" as="geometry" />
-        </mxCell>
         <mxCell id="s9iz7q6eL484p9fjKbK_-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="18 + 45 + 24" vertex="1">
           <mxGeometry height="30" width="142" x="1031" y="-16" as="geometry" />
         </mxCell>
-        <mxCell id="s9iz7q6eL484p9fjKbK_-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="210" width="240" x="74" y="-460" as="geometry" />
+        <mxCell id="s9iz7q6eL484p9fjKbK_-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1 Connector 0.15&lt;div&gt;1 Rail 0.27&lt;/div&gt;" vertex="1">
+          <mxGeometry height="210" width="240" x="71" y="-459.5" as="geometry" />
         </mxCell>
         <mxCell id="s9iz7q6eL484p9fjKbK_-24" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Total Return CFM= 820" vertex="1">
           <mxGeometry height="30" width="97" x="1030" y="-176.5" as="geometry" />
@@ -1518,7 +1515,7 @@
         <mxCell id="lZW7yIsleH291aBCMWfK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Stud&lt;div&gt;39 * 12 = 0&lt;/div&gt;&lt;div&gt;17 * 58 = 17&lt;/div&gt;&lt;div&gt;257 / 96 = 6&lt;/div&gt;&lt;div&gt;178/96 = 4&lt;/div&gt;" vertex="1">
           <mxGeometry height="117" width="100" x="-400" y="-520" as="geometry" />
         </mxCell>
-        <mxCell id="djaOxGMxVg1an2RmLQam-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Rafter Ti *16 - 1d&lt;div&gt;Kick Remove - 1d&lt;/div&gt;&lt;div&gt;Subfloor - 3d&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="djaOxGMxVg1an2RmLQam-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Rafter Ti *16 - 1d&lt;div&gt;Kick Remove - 1d&lt;/div&gt;&lt;div&gt;Subfloor - 3d&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="423" width="160" x="-585" y="-823.25" as="geometry" />
         </mxCell>
         <mxCell id="sHmtdmZ1XbfC6Oib-1p3-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">

@@ -1554,6 +1554,9 @@
         <mxCell id="h8yv7qLxRM0NaW9jPuXI-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Lawn mower 80&lt;div&gt;Stools 100&lt;/div&gt;&lt;div&gt;shovel 20&lt;/div&gt;&lt;div&gt;pots 30&lt;/div&gt;&lt;div&gt;tree 80&lt;/div&gt;&lt;div&gt;chair 100&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="184" width="230" x="800" y="-984" as="geometry" />
         </mxCell>
+        <mxCell id="h8yv7qLxRM0NaW9jPuXI-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="900&lt;div&gt;100&lt;/div&gt;&lt;div&gt;300&lt;/div&gt;&lt;div&gt;1300&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;800&lt;/div&gt;" vertex="1">
+          <mxGeometry height="217" width="150" x="850" y="-817" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

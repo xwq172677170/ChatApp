@@ -1491,29 +1491,14 @@
             <mxPoint x="389" y="-914.72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6cFLXrsnd5N4eirV4RYG-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OSB Sub($ 400)&lt;div&gt;13&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="-400" y="-823.25" as="geometry" />
-        </mxCell>
-        <mxCell id="6cFLXrsnd5N4eirV4RYG-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RafterVent($ 200)&lt;div&gt;&lt;div&gt;44 + 4 + 10 = 58&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="-400" y="-763.25" as="geometry" />
-        </mxCell>
         <mxCell id="6cFLXrsnd5N4eirV4RYG-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mudding Labor&lt;div&gt;($1000)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="-400" y="-702" as="geometry" />
-        </mxCell>
-        <mxCell id="6cFLXrsnd5N4eirV4RYG-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Duct 120" vertex="1">
-          <mxGeometry height="60" width="100" x="-400" y="-642" as="geometry" />
-        </mxCell>
-        <mxCell id="6cFLXrsnd5N4eirV4RYG-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wire 0" vertex="1">
-          <mxGeometry height="60" width="100" x="-400" y="-580" as="geometry" />
-        </mxCell>
-        <mxCell id="lZW7yIsleH291aBCMWfK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Stud&lt;div&gt;39 * 12 = 0&lt;/div&gt;&lt;div&gt;17 * 58 = 17&lt;/div&gt;&lt;div&gt;257 / 96 = 6&lt;/div&gt;&lt;div&gt;178/96 = 4&lt;/div&gt;" vertex="1">
-          <mxGeometry height="117" width="100" x="-400" y="-520" as="geometry" />
+          <mxGeometry height="60" width="100" x="-400" y="-823.25" as="geometry" />
         </mxCell>
         <mxCell id="djaOxGMxVg1an2RmLQam-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Rafter Ti *16 - 1d&lt;div&gt;Kick Remove - 1d&lt;/div&gt;&lt;div&gt;Subfloor - 3d&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="423" width="160" x="-585" y="-823.25" as="geometry" />
         </mxCell>
-        <mxCell id="s2RYPNqm_MwgXRLfmvXZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cabinets 2k&lt;div&gt;Flooring 1.2k&lt;/div&gt;" vertex="1">
-          <mxGeometry height="93" width="200" x="-300" y="-493" as="geometry" />
+        <mxCell id="s2RYPNqm_MwgXRLfmvXZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cabinets 2k&lt;div&gt;Flooring 1k&lt;/div&gt;" vertex="1">
+          <mxGeometry height="93" width="100" x="-400" y="-763.25" as="geometry" />
         </mxCell>
         <mxCell id="zuNA72qo3q9UwNjcfN8i-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="151" width="75.4" x="286.5" y="-791.25" as="geometry" />

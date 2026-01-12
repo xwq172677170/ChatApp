@@ -1539,6 +1539,9 @@
         <mxCell id="h8yv7qLxRM0NaW9jPuXI-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="900&lt;div&gt;100&lt;/div&gt;&lt;div&gt;300&lt;/div&gt;&lt;div&gt;1300&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;800&lt;/div&gt;" vertex="1">
           <mxGeometry height="217" width="150" x="850" y="-817" as="geometry" />
         </mxCell>
+        <mxCell id="wlUdDrjtgYwTNBklYVGk-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TreeCutting Cleanup&lt;div&gt;3000&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-107" y="-823.25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

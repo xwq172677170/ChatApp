@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.7">
   <diagram name="Page-1" id="0mairbrYIYrI2T9TzbTR">
-    <mxGraphModel dx="2519" dy="2830" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="2748" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -724,7 +724,7 @@
         <mxCell id="s9iz7q6eL484p9fjKbK_-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="18 + 45 + 24" vertex="1">
           <mxGeometry height="30" width="142" x="1031" y="-16" as="geometry" />
         </mxCell>
-        <mxCell id="s9iz7q6eL484p9fjKbK_-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="1 Connector 0.15&lt;div&gt;1 Rail 36.25&lt;/div&gt;&lt;div&gt;1 L 2.75&lt;/div&gt;&lt;div&gt;LRCRCRCRL&lt;/div&gt;&lt;div style=&quot;&quot;&gt;R&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;R&lt;/div&gt;&lt;div style=&quot;&quot;&gt;C&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; C&lt;/div&gt;&lt;div style=&quot;&quot;&gt;R&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;R&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2.75 * 2 + 36.25 * 4 + 0.15 * 3 = 150.95&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2.75 * 1 + 36.25 * 2 + 0.15 * 1 = 75.4&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="s9iz7q6eL484p9fjKbK_-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="1 Connector 0.15&lt;div&gt;1 End 0.2&lt;/div&gt;&lt;div&gt;1 Rail 36.25&lt;/div&gt;&lt;div&gt;1 L 2.75&lt;/div&gt;&lt;div&gt;LRCRCRCRL&lt;/div&gt;&lt;div style=&quot;&quot;&gt;R&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;R&lt;/div&gt;&lt;div style=&quot;&quot;&gt;C&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; C&lt;/div&gt;&lt;div style=&quot;&quot;&gt;R&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;R&lt;/div&gt;&lt;div style=&quot;&quot;&gt;E&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;E&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2.75 * 2 + 36.25 * 4 + 0.15 * 3 = 150.95&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2.75 * 1 + 36.25 * 2 + 0.15 * 1 + 0.2 * 1 = 75.6&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="240" x="71" y="-459.5" as="geometry" />
         </mxCell>
         <mxCell id="s9iz7q6eL484p9fjKbK_-24" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Total Return CFM= 820" vertex="1">
@@ -1547,6 +1547,15 @@
         </mxCell>
         <mxCell id="aCd0k6Zk30uqPyUy3A20-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1. R21 96 * 3 * 14.5 = 7 Bags of R21k&lt;div&gt;2.R30&amp;nbsp;16 * 15 + 8 * 7 = 296sqft 3 Bags of R25&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="187" x="13" y="-1100" as="geometry" />
+        </mxCell>
+        <mxCell id="mqFjoFqek5eg9Bx3E1NP-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" value="13 + 0.5" vertex="1">
+          <mxGeometry height="6.5" x="275" y="-634.75" as="geometry" />
+        </mxCell>
+        <mxCell id="mqFjoFqek5eg9Bx3E1NP-2" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;startSize=1;endSize=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="285" y="-625" as="sourcePoint" />
+            <mxPoint x="285" y="-638" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

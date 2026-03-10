@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="29.6.1">
   <diagram name="Page-1" id="0mairbrYIYrI2T9TzbTR">
-    <mxGraphModel dx="1708" dy="2663" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2640" dy="3167" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1535,9 +1535,6 @@
         </mxCell>
         <mxCell id="wlUdDrjtgYwTNBklYVGk-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TreeCutting Cleanup&lt;div&gt;3000&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-107" y="-823.25" as="geometry" />
-        </mxCell>
-        <mxCell id="aCd0k6Zk30uqPyUy3A20-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1. Audio Wiring&lt;br&gt;&lt;div&gt;2. Storage Wall Flat Remove Beam&lt;/div&gt;&lt;div&gt;3. Light box&lt;/div&gt;&lt;div&gt;4. HVAC&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="200" x="-235.5" y="-1102.5" as="geometry" />
         </mxCell>
         <mxCell id="mqFjoFqek5eg9Bx3E1NP-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" value="13 + 0.5" vertex="1">
           <mxGeometry height="6.5" x="275" y="-634.75" as="geometry" />

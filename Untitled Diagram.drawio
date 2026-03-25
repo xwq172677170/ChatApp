@@ -1524,7 +1524,7 @@
         <mxCell id="zuNA72qo3q9UwNjcfN8i-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" value="6" vertex="1">
           <mxGeometry height="6.5" width="16" x="361" y="-717.5" as="geometry" />
         </mxCell>
-        <mxCell id="zuNA72qo3q9UwNjcfN8i-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5.5 - 7&amp;nbsp; 21.5 - 23" vertex="1">
+        <mxCell id="zuNA72qo3q9UwNjcfN8i-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="177.5-48-48-48" vertex="1">
           <mxGeometry height="60" width="120" x="542" y="-871" as="geometry" />
         </mxCell>
         <mxCell id="h8yv7qLxRM0NaW9jPuXI-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="1. 拆pallet&lt;div&gt;2. basement fire alarm&lt;/div&gt;&lt;div&gt;3. 换water filter&lt;/div&gt;&lt;div&gt;4. string lights&lt;/div&gt;&lt;div&gt;5. caulk&lt;/div&gt;" vertex="1">
@@ -1682,6 +1682,12 @@
         </mxCell>
         <mxCell id="CNMJZ5r24_BkYaLqOaqW-8" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" value="63.5" vertex="1">
           <mxGeometry height="6.5" width="16" x="576" y="-649" as="geometry" />
+        </mxCell>
+        <mxCell id="CNMJZ5r24_BkYaLqOaqW-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="601" y="-670.6800000000001" as="sourcePoint" />
+            <mxPoint x="637" y="-670.6800000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -2046,6 +2046,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="r1td71sJ67yLzkOeHR4U-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="house" vertex="1">
+          <mxGeometry height="30" width="60" x="1947" y="-663" as="geometry" />
+        </mxCell>
+        <mxCell id="r1td71sJ67yLzkOeHR4U-89" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1913" y="-632" as="sourcePoint" />
+            <mxPoint x="2113" y="-632" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

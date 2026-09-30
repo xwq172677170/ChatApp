@@ -1880,8 +1880,8 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r1td71sJ67yLzkOeHR4U-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:2slope" vertex="1">
-          <mxGeometry height="30" width="60" x="1562" y="-1077" as="geometry" />
+        <mxCell id="r1td71sJ67yLzkOeHR4U-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:2 slope" vertex="1">
+          <mxGeometry height="30" width="60" x="1590" y="-1062.73" as="geometry" />
         </mxCell>
         <mxCell id="r1td71sJ67yLzkOeHR4U-39" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.883;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -2022,6 +2022,18 @@
         </mxCell>
         <mxCell id="r1td71sJ67yLzkOeHR4U-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:3 slope" vertex="1">
           <mxGeometry height="30" width="60" x="1778" y="-1025" as="geometry" />
+        </mxCell>
+        <mxCell id="r1td71sJ67yLzkOeHR4U-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="wood deck" vertex="1">
+          <mxGeometry height="30" width="60" x="1887" y="-865.22" as="geometry" />
+        </mxCell>
+        <mxCell id="r1td71sJ67yLzkOeHR4U-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Fill up to 1/2 ft" vertex="1">
+          <mxGeometry height="30" width="87" x="1510" y="-586" as="geometry" />
+        </mxCell>
+        <mxCell id="r1td71sJ67yLzkOeHR4U-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Reduce about 6 ft" vertex="1">
+          <mxGeometry height="30" width="215" x="1446" y="-1130" as="geometry" />
+        </mxCell>
+        <mxCell id="r1td71sJ67yLzkOeHR4U-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Reduce about 3.5 ft" vertex="1">
+          <mxGeometry height="30" width="215" x="1713.5" y="-1092.73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

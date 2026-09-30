@@ -1734,7 +1734,7 @@
         <mxCell id="TLAbRGjZ0et-MLGMRZBh-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="100" width="100" x="1001" y="-801.75" as="geometry" />
         </mxCell>
-        <mxCell id="TLAbRGjZ0et-MLGMRZBh-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="10ft" vertex="1">
+        <mxCell id="TLAbRGjZ0et-MLGMRZBh-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="fireglow japanese maple" vertex="1">
           <mxGeometry height="100" width="100" x="1001" y="-1093" as="geometry" />
         </mxCell>
         <mxCell id="TLAbRGjZ0et-MLGMRZBh-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="6ft" vertex="1">
@@ -2029,10 +2029,10 @@
         <mxCell id="r1td71sJ67yLzkOeHR4U-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="add 1/2 ft" vertex="1">
           <mxGeometry height="30" width="87" x="1510" y="-586" as="geometry" />
         </mxCell>
-        <mxCell id="r1td71sJ67yLzkOeHR4U-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Reduce 6 ft" vertex="1">
+        <mxCell id="r1td71sJ67yLzkOeHR4U-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6 ft above grade" vertex="1">
           <mxGeometry height="30" width="215" x="1446" y="-1130" as="geometry" />
         </mxCell>
-        <mxCell id="r1td71sJ67yLzkOeHR4U-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Reduce 3.5 ft" vertex="1">
+        <mxCell id="r1td71sJ67yLzkOeHR4U-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.5 ft above grade" vertex="1">
           <mxGeometry height="30" width="215" x="1713.5" y="-1092.73" as="geometry" />
         </mxCell>
         <mxCell id="r1td71sJ67yLzkOeHR4U-86" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
@@ -2054,6 +2054,9 @@
             <mxPoint x="1913" y="-632" as="sourcePoint" />
             <mxPoint x="2113" y="-632" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r1td71sJ67yLzkOeHR4U-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="blue rug juniper" vertex="1">
+          <mxGeometry height="30" width="60" x="1162" y="-1063" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

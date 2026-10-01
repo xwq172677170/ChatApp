@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0">
   <diagram name="Page-1" id="0mairbrYIYrI2T9TzbTR">
-    <mxGraphModel dx="2251" dy="2994" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="2999" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2032,7 +2032,7 @@
         <mxCell id="r1td71sJ67yLzkOeHR4U-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6 ft above grade" vertex="1">
           <mxGeometry height="30" width="215" x="1446" y="-1130" as="geometry" />
         </mxCell>
-        <mxCell id="r1td71sJ67yLzkOeHR4U-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.5 ft above grade" vertex="1">
+        <mxCell id="r1td71sJ67yLzkOeHR4U-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2.5 ft above grade" vertex="1">
           <mxGeometry height="30" width="215" x="1713.5" y="-1092.73" as="geometry" />
         </mxCell>
         <mxCell id="r1td71sJ67yLzkOeHR4U-86" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
@@ -2063,6 +2063,12 @@
         </mxCell>
         <mxCell id="r1td71sJ67yLzkOeHR4U-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="zeon Zoyia" vertex="1">
           <mxGeometry height="30" width="60" x="1162" y="-948" as="geometry" />
+        </mxCell>
+        <mxCell id="ucOLkUzIVMGbP-uo2nTP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="7ft - 60ft * 2% = 5ft 10in" vertex="1">
+          <mxGeometry height="30" width="87" x="1483" y="-1160" as="geometry" />
+        </mxCell>
+        <mxCell id="ucOLkUzIVMGbP-uo2nTP-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3.5 ft- 50ft * 2% = 2.5ft" vertex="1">
+          <mxGeometry height="30" width="87" x="1827" y="-1138" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
